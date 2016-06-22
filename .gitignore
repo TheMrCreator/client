@@ -187,3 +187,9 @@ node_modules/
 
 # private configs
 privates_config.lua
+components/ros-five/component.json
+*.lua
+components/ros-five/component.rc
+*.h
+components/ros-five/src/Component.cpp
+components/ros-five/src/EntitlementFixes.cpp
